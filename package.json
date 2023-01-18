@@ -96,7 +96,7 @@
     "webpack-strip-block": "^0.2.0"
   },
   "engines": {
-    "node": "^12.3.1",
+    "node": "^18.13.0",
     "npm": "^6.9.0",
     "yarn": "^1.16.0"
   }
